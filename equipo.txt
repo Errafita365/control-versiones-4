@@ -1,0 +1,8 @@
+Rafael Jaen Porras Miembro 1 se encarga de la creacion
+del repositorio y emplear comandos en el git
+
+Diego Aranda Villar Miembro 3
+se encarga de crear el contenido de Github y la tabla comparativa
+
+Pablo Dario Pareja Hernandez Miembro 2 se encarga de la documentacion
+de la tarea
